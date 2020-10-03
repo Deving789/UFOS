@@ -15,3 +15,4 @@ Once entering the website our client will see the basic opening and title with t
 
 # Summary
 
+We have created a page that looks clean and allows the user to filter through the different sitings in our data set using the search bars created. One big drawback about our search bar is trying to validate the sitings that happened which can be better described in the data.
